@@ -9,10 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/derrick-lai)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:derrickrlai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-white)](https://portfolio.derricklai.com)
-
-## 🎯 Mission
-Delivering pixel perfect solutions. To create efficient, scalable, and user-centric systems that enhance digital experiences that solve real-world problems.
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-white)](https://portfolio.derricklai.com) -->
 
 ## 🛠️ Technical Stack
 ```javascript
